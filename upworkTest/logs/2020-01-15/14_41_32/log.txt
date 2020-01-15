@@ -1,0 +1,26 @@
+# Logfile created on 2020-01-15 14:41:32 +0530 by logger.rb/61378
+I, [2020-01-15T14:41:32.798186 #57899]  INFO -- : ############ Test Case testCase001 Execution started ############
+I, [2020-01-15T14:41:32.798285 #57899]  INFO -- : Test Data is set for browser name : chrome
+I, [2020-01-15T14:41:32.798346 #57899]  INFO -- : Test Data is set for application url : https://www.upwork.com/
+I, [2020-01-15T14:41:32.798397 #57899]  INFO -- : Test Data is set for keyword : 
+I, [2020-01-15T14:41:32.798441 #57899]  INFO -- : Initializing WebDriver instance
+I, [2020-01-15T14:41:35.294221 #57899]  INFO -- : Initiate chrome browser
+I, [2020-01-15T14:41:41.902212 #57899]  INFO -- : Navigate to https://www.upwork.com/
+I, [2020-01-15T14:41:41.902321 #57899]  INFO -- : WebDriver instance is initialized
+I, [2020-01-15T14:41:41.906809 #57899]  INFO -- : Verify Upwork Title
+I, [2020-01-15T14:41:41.979335 #57899]  INFO -- : Verify Post A Job button
+I, [2020-01-15T14:41:42.396534 #57899]  INFO -- : Verify Login Link
+I, [2020-01-15T14:41:42.511941 #57899]  INFO -- : Verify SignUp Link
+I, [2020-01-15T14:41:42.546162 #57899]  INFO -- : Verify Search TextField
+I, [2020-01-15T14:41:42.600538 #57899]  INFO -- : Verify Web Dev Link
+I, [2020-01-15T14:41:43.132907 #57899]  INFO -- : Scroll Down to bottom of the page
+I, [2020-01-15T14:41:43.171114 #57899]  INFO -- : Verify Upwork Global Text
+I, [2020-01-15T14:41:43.483710 #57899]  INFO -- : Verify facebook link
+I, [2020-01-15T14:41:43.616578 #57899]  INFO -- : Verify linkedIn link
+I, [2020-01-15T14:41:43.679480 #57899]  INFO -- : Verify twitter link
+I, [2020-01-15T14:41:43.729380 #57899]  INFO -- : Verify youtube link
+I, [2020-01-15T14:41:43.935577 #57899]  INFO -- : Verify instagram link
+I, [2020-01-15T14:41:44.010470 #57899]  INFO -- : Verify appleStore link
+I, [2020-01-15T14:41:44.085143 #57899]  INFO -- : Verify playStore link
+I, [2020-01-15T14:41:44.112980 #57899]  INFO -- : All Links are verified successfully
+I, [2020-01-15T14:41:44.368578 #57899]  INFO -- : ############ Test Case testCase001 Execution completed ############
